@@ -1,6 +1,6 @@
 {
-  "name": "@100xdevs/common",
-  "version": "1.0.2",
+  "name": "@kishanitaliya/common",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
